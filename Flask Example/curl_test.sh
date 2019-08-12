@@ -1,0 +1,1 @@
+curl -X POST -H "Content-Type: application/json" -d @to_predict_json.json http://127.0.0.1:5000/predict_partner
