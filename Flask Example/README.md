@@ -1,6 +1,6 @@
-#About this project:
+**Flask API**
 
-requirements.txt:   List of required python packages	
+**requirements.txt:   List of required python packages	
 
 prediction.py:   Contains a classification model on sample dataset that will return a binary output
 
