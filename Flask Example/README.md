@@ -1,4 +1,4 @@
-About this project:
+#About this project:
 
 requirements.txt:   List of required python packages	
 
